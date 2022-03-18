@@ -1,0 +1,32 @@
+
+body {
+    
+}
+.titulo-r {
+    background-color: rgba(252, 105, 19, 0.897);
+}
+.navbar {
+    background-color: rgba(252, 105, 19, 0.897);
+}
+.quem-somos {
+    background-color: rgb(5, 8, 8);
+    color: rgb(253, 247, 247);
+}
+.margin {
+    margin-top:  30px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+.parceiros {
+    background-color: rgba(255, 0, 0, 0.781);
+    margin-top: -2%;
+    padding-top: 0%;
+}
+
+.bg-footer {
+    background-color: black;
+    color: aliceblue;
+}
+.title-margin {
+    padding-bottom: 5px;
+}
